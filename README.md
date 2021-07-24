@@ -1,5 +1,10 @@
+
 # Breast-cancer-detection
 This is a practical case study of logistic regression. Logistic regression has many applications in data science, but in the world of healthcare, it can really drive life-changing action. In this case study, we apply a logistic regrression model on a real-world dataset and predict whether the tumor is benign(not breast cancer) or malignant(breast cancer) based off its characteristics. 
+
+## Read the article [here][1].   
+
+[1]:<https://github.com/Maskey71098/Breast-cancer-detection/edit/main/README.md> "here"   
 
 The different independent variables in the dataset are   
 * Clump thickiness.
@@ -10,7 +15,14 @@ The different independent variables in the dataset are
 * Bares Nuclei.
 * Bland chromatin.
 * Normal nucleoli.
-* Mitoses.   
+* Mitoses.  
+
+## Installation
+```python
+pip install numpy
+pip install matplotlib
+pip install pandas
+``` 
 
 ## About Dataset
 The dataset used for this case study was extracted from https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29   
