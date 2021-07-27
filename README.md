@@ -25,7 +25,8 @@ pip install pandas
 ``` 
 
 ## About Dataset
-The dataset used for this case study was extracted from https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29   
+The dataset used for this case study was extracted from [UCI MACHINE LEARNING REPOSITORY][2] 
+[2]: <https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29 >
 
 ### **Attribute Information**   
 
